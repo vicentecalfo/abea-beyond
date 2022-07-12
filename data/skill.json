@@ -1,0 +1,174 @@
+{
+    "general": [
+        {
+            "name": "Acrobacia",
+            "description": [
+                "Façanhas fáceis de acrobacia incluem movimentos como rolamentos básicos e estrelinhas. No nível intermediário, o personagem é capaz de executar saltos mortais e dar piruetas. Façanhas difíceis incluem andar na corda bamba e fazer rotações e saltos entre barras."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        21
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Corrida",
+            "description": [
+                "Uma façanha fácil é correr com uma velocidade acima da média. Correr distâncias maiores e em terrenos mais difíceis vale uma façanha intermediária. Correr grandes distâncias em terrenos difíceis requer bastante fôlego e uma façanha difícil ou lendária."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        21,
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Equitação",
+            "description": [
+                "Cavalgar animais treinados e aplicar cuidados básicos aos cavalos é uma façanha fácil.Testes intermediários incluem cavalgar em maior velocidade ou controlar animais mais temperamentais. Pular, correr e domar cavalos são atos que valem façanhas difíceis ou lendárias."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Força física",
+            "description": [
+                "Levantar e carregar pesos acima do normal ou realizar feitos de força além do comum pode requerer uma façanha fácil ou intermediária. Realizar atos de força nos limites do corpo humano é uma façanha difícil ou lendária. Algumas armas exigem Força física para serem manejadas."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Furtividade",
+            "description": [
+                "Uma técnica utilizada por caçadores até espiões, a furtividade representa a aptidão em ocultar-se. O personagem aprende a esconder-se e a locomover-se de forma despercebida ao disfarçar seu som, aparência e cheiro. Sob condições ideais – por exemplo, um lugar escuro e cheio de recantos – o ato de esconder-se equivale a uma façanha fácil. Sob condições adversas, com maior iluminação e menor cobertura, a façanha pode ser difícil ou lendária.",
+                "O personagem que se esconde com sucesso antes de um encontro pode escolher um momento oportuno para revelar-se e realizar um ataque surpresa à distância ou corpo a corpo (se o inimigo passar por perto). Neste caso, o personagem ganha um ataque livre (sem possibilidade de retaliação do outro naquela rodada) e um bônus de +4 no teste."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Medicina de campo",
+            "description": [
+                "Medicina de campo é um tipo de primeiro socorro, com o qual o iniciante pode tratar feridas básicas e o avançado pode tratar choque circulatório, fazer redução de fraturas e estancar feridas mais graves. Uma façanha fácil remove um ponto de dano (veja seção - Condição física). Uma façanha média pode remover dois pontos de dano e uma de nível difícil pode remover três pontos de dano. Independente do sucesso ou fracasso do teste, um personagem pode receber apenas um teste de Medicina de campo em cada batalha na qual ele venha a ser ferido."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Natação",
+            "description": [
+                "Nadar em águas calmas requer uma façanha fácil. Uma façanha intermediária permite nadar em águas agitadas, fazer mergulho livre e socorrer outros em perigo. Uma façanha difícil permite nadar grandes distâncias, socorrer pessoas em circunstâncias extremas e segurar o fôlego durante vários minutos debaixo da água."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Prestidigitação",
+            "description": [
+                "Com esta habilidade, o personagem aprende a fazer movimentos mais rápidos com as mãos. Para enganar os olhos de um espectador com ilusionismo, é necessário uma façanha fácil, para múltiplos espectadores, exige-se uma façanha intermediária. Uma façanha difícil pode ser utilizada para furtar objetos dos bolsos ou fazer outros feitos notáveis com as mãos, sem ninguém perceber."
+            ],
+            "ref": [
+                {
+                    "book": "ABEA",
+                    "pages": []
+                },
+                {
+                    "book": "ABEAGP",
+                    "pages": [
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": [
+                ""
+            ],
+            "ref": [
+                {
+                    "book": "",
+                    "pages": []
+                }
+            ]
+        }
+    ],
+    "wild": [],
+    "weapons": [],
+    "martialArts": [],
+    "social": [],
+    "militaryAndNaval": [],
+    "crafts": [],
+    "art": [],
+    "musicalInstruments": [],
+    "otherCrafts": [],
+    "academicStudies": [],
+    "languages": [],
+    "magicAndMiracles": []
+}
