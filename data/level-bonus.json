@@ -1,20 +1,17 @@
-[
-    {
-        "level": 1,
+{
+    "1": {
         "name": "Aprendiz",
         "bonus": 3,
         "cost": 1
     },
-    {
-        "level": 2,
+    "2": {
         "name": "Praticante",
         "bonus": 6,
         "cost": 2
     },
-    {
-        "level": 3,
+    "3": {
         "name": "Mestre",
         "bonus": 9,
         "cost": 4
     }
-]
+}
