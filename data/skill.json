@@ -177,7 +177,35 @@
         "description": [
             "Muitos perigos existem na selva do mundo de A Bandeira do Elefante e da Arara. Por isso, é útil alguns membros do grupo serem proficientes em armas de combate. Cada categoria de armas exige um estudo individual. Cada nível de estudo aumenta a habilidade do personagem com aquela arma. A seçãoResolução de batalhas descreve o uso de habilidades de armas em combate. Por simplicidade, dividimos as habilidades entre categorias, e o participante consegue utilizar qualquer arma dentro daquela categoria."
         ],
-        "skills": []
+        "skills": {
+            "throw": {
+                "name": "Armas de arremesso"
+            },
+            "slash": {
+                "name": "Armas de corte"
+            },
+            "fire": {
+                "name": "Armas de fogo"
+            },
+            "impact": {
+                "name": "Armas de golpe"
+            },
+            "rod": {
+                "name": "Armas de haste"
+            },
+            "blow": {
+                "name": "Armas de sopro"
+            },
+            "mechanic": {
+                "name": "Armas mecânicas"
+            },
+            "archery": {
+                "name": "Arqueria"
+            },
+            "fencing": {
+                "name": "Esgrima"
+            }
+        }
     },
     "martialArts": {
         "name": "Artes Marciais",
