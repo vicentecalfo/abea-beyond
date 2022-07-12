@@ -1,18 +1,38 @@
-[
-    {
-        "achievement": "Fácil",
-        "value": 12
-    },
-    {
-        "achievement": "Intermediária",
-        "value": 15
-    },
-    {
-        "achievement": "Difícil",
-        "value": 18
-    },
-    {
-        "achievement": "Lendária",
-        "value": 21
+{
+    "description": [
+        "Quando um participante deseja utilizar alguma habilidade do seu personagem para resolver uma situação, chamamos este ato de façanha.",
+        "O sucesso ou fracasso de cada façanha é resolvido por meio de um teste de dados comuns, de seis lados. O teste é realizado através de uma jogada de três dados.",
+        "Ao resultado da jogada de dados, é somado um bônus baseado no nível  de habilidade do personagem naquela área.",
+        "Quando o participante decide testar alguma habilidade do seu personagem, o mediador escolhe a dificuldade apropriada para a façanha."
+    ],
+    "categories": {
+        "easy": {
+            "name": "Fácil",
+            "value": 12,
+            "description": [
+                "Os personagens de nível 1 nesta habilidade conseguem sucesso a maioria das vezes (conforme o resultado da jogada de dados). Para personagens na fase praticante (nível 2), estas tarefas tornam-se rotinas, e a taxa de sucesso é muito alta."
+            ]
+        },
+        "medium": {
+            "name": "Intermediária",
+            "value": 15,
+            "description": [
+                "Tarefas além da competência dos iniciantes, a taxa de sucesso para personagens com nível 1 é baixa. Ao chegar ao nível de mestre (nível 3), porém, até estas tarefas tornam-se rotineiras."
+            ]
+        },
+        "hard": {
+            "name": "Difícil",
+            "value": 18,
+            "description": [
+                "Uma tarefa tão difícil que até mesmo os maiores mestres (nível 3) não têm garantia de sucesso."
+            ]
+        },
+        "legendary": {
+            "name": "Lendária",
+            "value": 21,
+            "description": [
+                "Apenas para casos extraordinários, estas façanhas desafiam o verdadeiro limite do ser humano. Mesmo os mestres (nível 3) têm menos de 50% de chance de realizar uma façanha dessas."
+            ]
+        }
     }
-]
+}
