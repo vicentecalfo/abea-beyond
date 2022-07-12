@@ -1,174 +1,275 @@
 {
-    "general": [
-        {
-            "name": "Acrobacia",
-            "description": [
-                "Façanhas fáceis de acrobacia incluem movimentos como rolamentos básicos e estrelinhas. No nível intermediário, o personagem é capaz de executar saltos mortais e dar piruetas. Façanhas difíceis incluem andar na corda bamba e fazer rotações e saltos entre barras."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        21
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Corrida",
-            "description": [
-                "Uma façanha fácil é correr com uma velocidade acima da média. Correr distâncias maiores e em terrenos mais difíceis vale uma façanha intermediária. Correr grandes distâncias em terrenos difíceis requer bastante fôlego e uma façanha difícil ou lendária."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        21,
-                        22
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Equitação",
-            "description": [
-                "Cavalgar animais treinados e aplicar cuidados básicos aos cavalos é uma façanha fácil.Testes intermediários incluem cavalgar em maior velocidade ou controlar animais mais temperamentais. Pular, correr e domar cavalos são atos que valem façanhas difíceis ou lendárias."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        22
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Força física",
-            "description": [
-                "Levantar e carregar pesos acima do normal ou realizar feitos de força além do comum pode requerer uma façanha fácil ou intermediária. Realizar atos de força nos limites do corpo humano é uma façanha difícil ou lendária. Algumas armas exigem Força física para serem manejadas."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        22
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Furtividade",
-            "description": [
-                "Uma técnica utilizada por caçadores até espiões, a furtividade representa a aptidão em ocultar-se. O personagem aprende a esconder-se e a locomover-se de forma despercebida ao disfarçar seu som, aparência e cheiro. Sob condições ideais – por exemplo, um lugar escuro e cheio de recantos – o ato de esconder-se equivale a uma façanha fácil. Sob condições adversas, com maior iluminação e menor cobertura, a façanha pode ser difícil ou lendária.",
-                "O personagem que se esconde com sucesso antes de um encontro pode escolher um momento oportuno para revelar-se e realizar um ataque surpresa à distância ou corpo a corpo (se o inimigo passar por perto). Neste caso, o personagem ganha um ataque livre (sem possibilidade de retaliação do outro naquela rodada) e um bônus de +4 no teste."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        22
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Medicina de campo",
-            "description": [
-                "Medicina de campo é um tipo de primeiro socorro, com o qual o iniciante pode tratar feridas básicas e o avançado pode tratar choque circulatório, fazer redução de fraturas e estancar feridas mais graves. Uma façanha fácil remove um ponto de dano (veja seção - Condição física). Uma façanha média pode remover dois pontos de dano e uma de nível difícil pode remover três pontos de dano. Independente do sucesso ou fracasso do teste, um personagem pode receber apenas um teste de Medicina de campo em cada batalha na qual ele venha a ser ferido."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        22
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Natação",
-            "description": [
-                "Nadar em águas calmas requer uma façanha fácil. Uma façanha intermediária permite nadar em águas agitadas, fazer mergulho livre e socorrer outros em perigo. Uma façanha difícil permite nadar grandes distâncias, socorrer pessoas em circunstâncias extremas e segurar o fôlego durante vários minutos debaixo da água."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        22
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Prestidigitação",
-            "description": [
-                "Com esta habilidade, o personagem aprende a fazer movimentos mais rápidos com as mãos. Para enganar os olhos de um espectador com ilusionismo, é necessário uma façanha fácil, para múltiplos espectadores, exige-se uma façanha intermediária. Uma façanha difícil pode ser utilizada para furtar objetos dos bolsos ou fazer outros feitos notáveis com as mãos, sem ninguém perceber."
-            ],
-            "ref": [
-                {
-                    "book": "ABEA",
-                    "pages": []
-                },
-                {
-                    "book": "ABEAGP",
-                    "pages": [
-                        22
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "",
-            "description": [
-                ""
-            ],
-            "ref": [
-                {
-                    "book": "",
-                    "pages": []
-                }
-            ]
-        }
-    ],
-    "wild": [],
-    "weapons": [],
-    "martialArts": [],
-    "social": [],
-    "militaryAndNaval": [],
-    "crafts": [],
-    "art": [],
-    "musicalInstruments": [],
-    "otherCrafts": [],
-    "academicStudies": [],
-    "languages": [],
-    "magicAndMiracles": []
+    "general": {
+        "name": "Habilidades Gerais",
+        "description": [
+            "Estas habilidades podem ser desenvolvidas por qualquer um."
+        ],
+        "skills": [
+            {
+                "name": "Acrobacia",
+                "description": [
+                    "Façanhas fáceis de acrobacia incluem movimentos como rolamentos básicos e estrelinhas. No nível intermediário, o personagem é capaz de executar saltos mortais e dar piruetas. Façanhas difíceis incluem andar na corda bamba e fazer rotações e saltos entre barras."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            21
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corrida",
+                "description": [
+                    "Uma façanha fácil é correr com uma velocidade acima da média. Correr distâncias maiores e em terrenos mais difíceis vale uma façanha intermediária. Correr grandes distâncias em terrenos difíceis requer bastante fôlego e uma façanha difícil ou lendária."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            21,
+                            22
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Equitação",
+                "description": [
+                    "Cavalgar animais treinados e aplicar cuidados básicos aos cavalos é uma façanha fácil.Testes intermediários incluem cavalgar em maior velocidade ou controlar animais mais temperamentais. Pular, correr e domar cavalos são atos que valem façanhas difíceis ou lendárias."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            22
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Força física",
+                "description": [
+                    "Levantar e carregar pesos acima do normal ou realizar feitos de força além do comum pode requerer uma façanha fácil ou intermediária. Realizar atos de força nos limites do corpo humano é uma façanha difícil ou lendária. Algumas armas exigem Força física para serem manejadas."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            22
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Furtividade",
+                "description": [
+                    "Uma técnica utilizada por caçadores até espiões, a furtividade representa a aptidão em ocultar-se. O personagem aprende a esconder-se e a locomover-se de forma despercebida ao disfarçar seu som, aparência e cheiro. Sob condições ideais – por exemplo, um lugar escuro e cheio de recantos – o ato de esconder-se equivale a uma façanha fácil. Sob condições adversas, com maior iluminação e menor cobertura, a façanha pode ser difícil ou lendária.",
+                    "O personagem que se esconde com sucesso antes de um encontro pode escolher um momento oportuno para revelar-se e realizar um ataque surpresa à distância ou corpo a corpo (se o inimigo passar por perto). Neste caso, o personagem ganha um ataque livre (sem possibilidade de retaliação do outro naquela rodada) e um bônus de +4 no teste."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            22
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Medicina de campo",
+                "description": [
+                    "Medicina de campo é um tipo de primeiro socorro, com o qual o iniciante pode tratar feridas básicas e o avançado pode tratar choque circulatório, fazer redução de fraturas e estancar feridas mais graves. Uma façanha fácil remove um ponto de dano (veja seção - Condição física). Uma façanha média pode remover dois pontos de dano e uma de nível difícil pode remover três pontos de dano. Independente do sucesso ou fracasso do teste, um personagem pode receber apenas um teste de Medicina de campo em cada batalha na qual ele venha a ser ferido."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            22
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Natação",
+                "description": [
+                    "Nadar em águas calmas requer uma façanha fácil. Uma façanha intermediária permite nadar em águas agitadas, fazer mergulho livre e socorrer outros em perigo. Uma façanha difícil permite nadar grandes distâncias, socorrer pessoas em circunstâncias extremas e segurar o fôlego durante vários minutos debaixo da água."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            22
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prestidigitação",
+                "description": [
+                    "Com esta habilidade, o personagem aprende a fazer movimentos mais rápidos com as mãos. Para enganar os olhos de um espectador com ilusionismo, é necessário uma façanha fácil, para múltiplos espectadores, exige-se uma façanha intermediária. Uma façanha difícil pode ser utilizada para furtar objetos dos bolsos ou fazer outros feitos notáveis com as mãos, sem ninguém perceber."
+                ],
+                "ref": [
+                    {
+                        "book": "ABEA",
+                        "pages": []
+                    },
+                    {
+                        "book": "ABEAGP",
+                        "pages": [
+                            22
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "description": [
+                    ""
+                ],
+                "ref": [
+                    {
+                        "book": "",
+                        "pages": []
+                    }
+                ]
+            }
+        ]
+    },
+    "wild": {
+        "name": "Habilidades Silvestres",
+        "description": [
+            "Os personagens que passam parte da vida dentro ou perto de terras silvestres podem desenvolver algumas destas habilidades."
+        ],
+        "skills": []
+    },
+    "weapons": {
+        "name": "Armas",
+        "description": [
+            "Muitos perigos existem na selva do mundo de A Bandeira do Elefante e da Arara. Por isso, é útil alguns membros do grupo serem proficientes em armas de combate. Cada categoria de armas exige um estudo individual. Cada nível de estudo aumenta a habilidade do personagem com aquela arma. A seçãoResolução de batalhas descreve o uso de habilidades de armas em combate. Por simplicidade, dividimos as habilidades entre categorias, e o participante consegue utilizar qualquer arma dentro daquela categoria."
+        ],
+        "skills": []
+    },
+    "martialArts": {
+        "name": "Artes Marciais",
+        "description": [
+            "O personagem também pode adquirir habilidades de artes marciais, que dispensam o uso de armas. A seção Resolução de batalhas descreve o uso de artes marciais em combate.",
+            "Incluímos aqui três opções de artes marciais, mas é possível inventar habilidades em artes estrangeiras da época, como jiu-jitsu japonês, shaolin quan chinês e mushti yuddha indiano."
+        ],
+        "skills": []
+    },
+    "social": {
+        "name": "Habilidades Sociais",
+        "description": [
+            "As habilidades sociais podem influenciar o relacionamento do personagem com os outros."
+        ],
+        "skills": []
+    },
+    "militaryAndNaval": {
+        "name": "Habilidades Militares e Navais",
+        "description": [
+            "Estas habilidades são fundamentais para quem trabalha como soldado ou em embarcações de alto mar."
+        ],
+        "skills": []
+    },
+    "crafts": {
+        "name": "Artesanatos",
+        "description": [
+            "Antigamente, os artesãos eram os profissionais artísticos que necessitavam de licença para praticar sua profissão. O artesão sempre começa com um período como aprendiz, seguido por um período profissional, até chegar ao nível de mestre. Para exercer a função, o personagem precisa das ferramentas apropriadas do ofício e o tempo necessário para desenvolver o produto."
+        ],
+        "skills": []
+    },
+    "art": {
+        "name": "Artes",
+        "description": [
+            "Várias atividades artísticas não foram vistas como ofícios, e não  necessitavam de licenciatura para praticar.",
+            "Dividimos o desenvolvimento artístico assim:",
+            "Nível 1 – Um passatempo, o personagem tem conhecimento muito básico da arte.",
+            "Nível 2 – O personagem maneja bem a arte, conhece várias técnicas, e consegue criar suas próprias obras.",
+            "Nível 3 – Mestre da arte, o personagem possui grande repertório e é capaz de criar obras de relevância."
+        ],
+        "skills": []
+    },
+    "musicalInstruments": {
+        "name": "Instrumentos Musicais",
+        "description": [
+            "O participante também pode escolher para seu personagem habilidades com algum instrumento musical. O histórico do personagem pode influenciar a escolha. Por exemplo, um nativo brasileiro criado na selva teria mais contato com flautas e tambores do que alaúdes. Ao mesmo tempo, um nativo educado por jesuítas pode ter grande familiaridade com a charamela.",
+            "Dividimos as habilidades com instrumentos em categorias básicas. O personagem pode tocar qualquer instrumento daquela categoria.",
+            "Nada impede um personagem de desenvolver habilidades com instrumentos menos comuns da época, por exemplo, a gaita de fole para um personagem das Terras Altas da Escócia."
+        ],
+        "skills": []
+    },
+    "otherCrafts": {
+        "name": "Outros Ofícios",
+        "description": [
+            "Para ofícios não relacionados ao artesanato, os níveis representam a progressão profissional do personagem na área:",
+            "Nível I – Aprendiz da área, capaz de fazer tarefas simples, porém  ainda não pronto para exercer o ofício como profissional independente.",
+            "Nível 2 – Profissional da área, capaz de praticar sozinho.",
+            "Nível 3 – Referência na sua área, o personagem conhece seu ofício nos mínimos detalhes."
+        ],
+        "skills": []
+    },
+    "academicStudies": {
+        "name": "Estudos Acadêmicos",
+        "description": [
+            "No Brasil da época, educação formal queria dizer estudar nos colégios da Companhia de Jesus. Estes colégios, porém, só trabalhavam os conhecimentos básicos (nível 1, dentro do nosso sistema). Ao mesmo tempo, havia dezenas de universidades na Europa, inclusive na Espanha, na França, na Itália, em Portugal, na Suíça, na Alemanha e na Inglaterra, entre outros países. Nestes lugares, o aluno podia adquirir, em latim, educação formal em várias áreas.",
+            "Nível 1 – O personagem entende os conhecimentos básicos da área.",
+            "Nível 2 – O personagem tem um conhecimento amplo da área e   consegue aplicar seus conhecimentos em situações práticas.",
+            "Nível 3 – O personagem é um grande estudioso, capaz de contribuir novos pensamentos à área.",
+            "As disciplinas da época eram diferentes da maneira que as conhecemos hoje, com estudos com base mais religiosa do que científica."
+        ],
+        "skills": []
+    },
+    "languages": {
+        "name": "Línguas",
+        "description": [
+            "Línguas com o componente da escrita podem ser adquiridas até nível 3. Para línguas sem componente escrito, só existe nível 1.",
+            "Nível 1 – O personagem adquire fluência na língua falada. Pode se comunicar muito bem na língua e até servir como intérprete, no caso de dominar duas línguas até este nível.",
+            "Nível 2 – Ao adquirir o nível 2, o personagem desenvolve a habilidade de ler e escrever a língua.",
+            "Nível 3 – O nível 3 é para o estudioso dominar a língua e ter capacidade de escrever textos eloquentes e relevantes. Este nível de estudo é indispensável para poetas, escrivães e acadêmicos.",
+            "O uso de línguas não necessita de testes, quem possui fluência pode se comunicar com qualquer outro que também domina a língua.",
+            "Tupi era uma língua quase indispensável para os interessados em esbravar a selva quinhentista, foi a língua mais falada nas terras litorâneas da época. Além de ser a língua nata de vários povos (tupinambá, tupiniquim, tupinaé, tamoio, temiminó, potiguar, caeté e tabajara), também foi adotada por muitos dos colonizadores como língua principal. Outras línguas do litoral incluíam aimoré (também chamada de botocudo), goitacá (também chamada de waitaká), maracá, tremembé e guarani (língua dos carijós e guaranis).",
+            "Português era a língua da política e da burocracia da colônia. Latim era a língua da igreja, dos colégios e das universidades, imprescindível para qualquer religioso ou estudioso. Árabe chegou à colônia através de africanos praticantes de islamismo, junto com línguas africanas como evê, fon, ioruba, quicongo, quimbundo e umbundo. Viajantes europeus trouxeram as suas línguas.",
+            "É importante notar que é possível aprender outros idiomas como habilidades, por exemplo: alemão, italiano ou japonês. Para saber mais sobre os principais povos do litoral na época, você pode consultar seção Os povos."
+        ],
+        "skills": []
+    },
+    "magicAndMiracles": {
+        "name": "Habilidades Mágicas e Milagrosas",
+        "description": [
+            "O mundo das histórias de A Bandeira do Elefante e da Arara contém elementos sobrenaturais, como monstros do folclore brasileiro. No sistema apresentado neste livro, é possível os personagens adquirirem seus próprios poderes sobrenaturais, descritos na literatura da época. Dividimos estas habilidades sobrenaturais entre três categorias: os poderes dos pajés, os poderes baseados no culto de Ifá e os milagres baseados em fé religiosa.",
+            "Deixamos o uso destas habilidades de forma opcional, dependendo da campanha. Outros caminhos também são possíveis, porém fora do escopodeste livro, como por exemplo o vodum dos povos Ewe e Fon.",
+            "Para os que desejam utilizar essas habilidades, elas têm que ser adquiridas por meio de pontos de aprendizagem, do mesmo modo que qualquer outra habilidade. Para maiores informações, veja a seção Poderes sobrenaturais."
+        ],
+        "skills": []
+    }
 }
