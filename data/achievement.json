@@ -1,0 +1,18 @@
+[
+    {
+        "achievement": "Fácil",
+        "value": 12
+    },
+    {
+        "achievement": "Intermediária",
+        "value": 15
+    },
+    {
+        "achievement": "Difícil",
+        "value": 18
+    },
+    {
+        "achievement": "Lendária",
+        "value": 21
+    }
+]
