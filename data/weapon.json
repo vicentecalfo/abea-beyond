@@ -1,0 +1,459 @@
+{
+    "1": {
+        "name": "Arcabuz",
+        "description": [
+            "Arma pesada (cerca de 7 kg.) e pouco precisa, porém mortal nas guerras, onde os arcabuzeiros podiam ser agrupados, oferecendo grande poder de fogo móvel. Os modelos mais simples utilizam o mecanismo fecho de mecha, com pavio, porém vários modelos possuem tecnologia mais avançada, como o fecho de roda, que usa fricção na pirita para gerar faíscas, e o *snaphaunce*, que utiliza sílex.",
+            " Normalmente, os arcabuzeiros portam vários frascos pequenos, já calibradoscom a quantidade certa de pólvora, para facilitar o carregamento da arma."
+        ],
+        "skills": [
+            "fire"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "long"
+        ],
+        "damage": 3,
+        "notes": [
+            "Uma rodada para recarregar entre tiros."
+        ]
+    },
+    "3": {
+        "name": "Adaga",
+        "description": [
+            "Uma faca alongada, que oferece ao combatente um alcance maior que a faca comum."
+        ],
+        "skills": [
+            "slash"
+        ],
+        "handle": [
+            [
+                1,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 1,
+        "notes": []
+    },
+    "4": {
+        "name": "Besta",
+        "description": [
+            "Arco mecânico de setas curtas. É a tensão da corda e não a força do besteiro que determina o poder do tiro, o que facilita o treinamento de soldados no uso da arma."
+        ],
+        "skills": [
+            "mechanic"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "long"
+        ],
+        "damage": 2,
+        "notes": [
+            "Uma rodada para recarregar entre tiros."
+        ]
+    },
+    "5": {
+        "name": "Faca",
+        "description": [
+            "Faca curta, comum. Punhal."
+        ],
+        "skills": [
+            "slash"
+        ],
+        "handle": [
+            [
+                1,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 1,
+        "notes": []
+    },
+    "6": {
+        "name": "Alabarda",
+        "description": [
+            "Lança comprida com machado e ponta de metal. Serve para cortar ou esfaquear o oponente, mas apenas à distância certa. Usada principalmente por soldados de infantaria e guardas."
+        ],
+        "skills": [
+            "rod"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": [
+            "Para utilizar estas armas, é necessário possuir Força física nível 1 ou superior. Ao atingir Força física nível 3, o dano causado aumenta para 3."
+        ]
+    },
+    "7": {
+        "name": "Lança",
+        "description": [
+            "Arma de haste curta, que pode ser combinada com um propulsor (conhecido como “estólica”) para aumentar a velocidade do arremesso. Pode ser usada também no corpo a corpo por quem tem habilidade em Armas de haste."
+        ],
+        "skills": [
+            "rod",
+            "throw"
+        ],
+        "handle": [
+            [
+                1,
+                "throw"
+            ],
+            [
+                2,
+                "stab"
+            ]
+        ],
+        "range": [
+            "medium",
+            "melee"
+        ],
+        "damage": 2,
+        "notes": []
+    },
+    "8": {
+        "name": "Rapieira",
+        "description": [
+            "De lâmina longa e fina, a rapieira serve principalmente para perfurar o alvo, o que faz com grande precisão. Ela pode cortar, porém sem o mesmo peso da espada de lâmina larga. Esta categoria inclui a spada da lato italiana e espada ropera espanhola."
+        ],
+        "skills": [
+            "fencing"
+        ],
+        "handle": [
+            1,
+            ""
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": []
+    },
+    "9": {
+        "name": "Porrete",
+        "description": [
+            "Qualquer bastão criado para combate. Inclui a maça dos europeus e o tacape (também chamado de borduna) dos nativos."
+        ],
+        "skills": [
+            "impact"
+        ],
+        "handle": [
+            [
+                1,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": []
+    },
+    "10": {
+        "name": "Martelo de Lucerne",
+        "description": [
+            "Uma haste de dois metros de comprimento com uma cabeça que combina um martelo de um lado e três ou quatro pontos saindo dos outros lados e/ou para cima. Útil para derrubar pessoas das suas montarias e aplicar golpes pesados."
+        ],
+        "skills": [
+            "rod"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": [
+            "Para utilizar estas armas, é necessário possuir Força física nível 1 ou superior. Ao atingir Força física nível 3, o dano causado aumenta para 3."
+        ]
+    },
+    "11": {
+        "name": "Machado de arremesso",
+        "description": [
+            "Machado curto, porém pesado o suficiente para causar grandes danos no inimigo atingido. Esta arma também pode ser usada no corpo a corpo por quem tem habilidade em Armas de Golpe."
+        ],
+        "skills": [
+            "impact",
+            "throw"
+        ],
+        "handle": [
+            [
+                1,
+                "throw"
+            ],
+            [
+                1,
+                "slash"
+            ]
+        ],
+        "range": [
+            "short",
+            "melee"
+        ],
+        "damage": 2,
+        "notes": []
+    },
+    "12": {
+        "name": "Espada de lâmina larga",
+        "description": [
+            "Espada de duas mãos com lâmina larga, capaz de cortar ou perfurar o alvo."
+        ],
+        "skills": [
+            "slash"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": [
+            "Para utilizar estas armas, é necessário possuir Força física nível 1 ou superior. Ao atingir Força física nível 3, o dano causado aumenta para 3."
+        ]
+    },
+    "13": {
+        "name": "Machado de guerra",
+        "description": [
+            "Qualquer machado de guerra de duas mãos. Inclui o bardiche, um machado de lâmina curvada originário da Europa Oriental."
+        ],
+        "skills": [
+            "impact"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": [
+            "Para utilizar estas armas, é necessário possuir Força física nível 1 ou superior. Ao atingir Força física nível 3, o dano causado aumenta para 3."
+        ]
+    },
+    "14": {
+        "name": "Zarabatana",
+        "description": [
+            "Arma que lança, ao sopro, um pequeno dardo. Usada principalmente para a caça, não para a guerra, mas o dardo envenenado pode ser letal."
+        ],
+        "skills": [
+            "blow"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "medium"
+        ],
+        "damage": 1,
+        "notes": []
+    },
+    "15": {
+        "name": "Arco e flecha",
+        "description": [
+            "Existem arcos de vários formatos, desde os “arcos longos” dos ingleses aos arcos também compridos dos nativos. Alguns nativos usavam “setas ervadas” (envenenadas) nas suas batalhas."
+        ],
+        "skills": [
+            "archery"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "long"
+        ],
+        "damage": 1,
+        "notes": []
+    },
+    "16": {
+        "name": "Faca de arremesso",
+        "description": [
+            "Faca criada especificamente para o arremesso. Causa pouco dano, exceto nos casos em que a arma atinge algum ponto vital ou utiliza veneno. Esta arma também pode ser usada no corpo a corpo por quem tem habilidade em Armas de corte."
+        ],
+        "skills": [
+            "slash",
+            "throw"
+        ],
+        "handle": [
+            [
+                1,
+                "throw"
+            ],
+            [
+                2,
+                "stab"
+            ]
+        ],
+        "range": [
+            "short",
+            "melee"
+        ],
+        "damage": 1,
+        "notes": []
+    },
+    "17": {
+        "name": "Alfanje",
+        "description": [
+            "Espada curva espanhola, mais curta e larga que a cimitarra."
+        ],
+        "skills": [
+            "slash"
+        ],
+        "handle": [
+            [
+                1,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": []
+    },
+    "18": {
+        "name": "Machete",
+        "description": [
+            "Apesar do seu propósito inicial ser pacífico, o de cortar vegetação, ele também pode ser utilizado como arma de combate."
+        ],
+        "skills": [
+            "slash"
+        ],
+        "handle": [
+            [
+                1,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 1,
+        "notes": ""
+    },
+    "19": {
+        "name": "Mosquete",
+        "description": [
+            "Os primeiros mosquetes, introduzidos no século XVI, eram nada mais que arcabuzes mais compridos e pesados. Ao contrário do arcabuz comum, que pode ser disparado apoiado no ombro do combatente, os “mosqueteiros” exigem uma forquilha para apoiar a pesada arma antes de atirar. Devido a seu peso (cerca de 10 kg.) e comprimento, são mais adequados para batalhas do que expedições."
+        ],
+        "skills": [
+            "fire"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "long"
+        ],
+        "damage": 4,
+        "notes": [
+            "Uma rodada de preparação antes do primeiro tiro.",
+            "Duas rodadas para recarregar entre tiros.",
+            "Necessário uma forquilha para manejar."
+        ]
+    },
+    "20": {
+        "name": "Pistola",
+        "description": [
+            "Seu funcionamento é similar ao arcabuz, porém com menor alcance devido ao cano curto."
+        ],
+        "skills": [
+            "fire"
+        ],
+        "handle": [
+            [
+                1,
+                ""
+            ]
+        ],
+        "range": [
+            "medium"
+        ],
+        "damage": 2,
+        "notes": [
+            "Uma rodada para recarregar entre tiros."
+        ]
+    },
+    "21": {
+        "name": "Martelo de guerra",
+        "description": [
+            "Qualquer martelo de guerra de duas mãos."
+        ],
+        "skills": [
+            "impact"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 1,
+        "notes": [
+            "Para utilizar estas armas, é necessário possuir Força física nível 1 ou superior. Ao atingir Força física nível 3, o dano causado aumenta para 3."
+        ]
+    },
+    "22": {
+        "name": "Pique",
+        "description": [
+            "Normalmente encontrado em grupos de lanceiros, o pique é uma lança comprida, de 2,5 a 5 metros. É usado para espetar oponentes ou seus cavalos."
+        ],
+        "skills": [
+            "rod"
+        ],
+        "handle": [
+            [
+                2,
+                ""
+            ]
+        ],
+        "range": [
+            "melee"
+        ],
+        "damage": 2,
+        "notes": []
+    }
+}
