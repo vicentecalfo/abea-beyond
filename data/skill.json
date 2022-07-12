@@ -213,9 +213,9 @@
         "description": [
             "Várias atividades artísticas não foram vistas como ofícios, e não  necessitavam de licenciatura para praticar.",
             "Dividimos o desenvolvimento artístico assim:",
-            "Nível 1 – Um passatempo, o personagem tem conhecimento muito básico da arte.",
-            "Nível 2 – O personagem maneja bem a arte, conhece várias técnicas, e consegue criar suas próprias obras.",
-            "Nível 3 – Mestre da arte, o personagem possui grande repertório e é capaz de criar obras de relevância."
+            "**Nível 1** – Um passatempo, o personagem tem conhecimento muito básico da arte.",
+            "**Nível 2** – O personagem maneja bem a arte, conhece várias técnicas, e consegue criar suas próprias obras.",
+            "**Nível 3** – Mestre da arte, o personagem possui grande repertório e é capaz de criar obras de relevância."
         ],
         "skills": []
     },
@@ -232,9 +232,9 @@
         "name": "Outros Ofícios",
         "description": [
             "Para ofícios não relacionados ao artesanato, os níveis representam a progressão profissional do personagem na área:",
-            "Nível I – Aprendiz da área, capaz de fazer tarefas simples, porém  ainda não pronto para exercer o ofício como profissional independente.",
-            "Nível 2 – Profissional da área, capaz de praticar sozinho.",
-            "Nível 3 – Referência na sua área, o personagem conhece seu ofício nos mínimos detalhes."
+            "**Nível I** – Aprendiz da área, capaz de fazer tarefas simples, porém  ainda não pronto para exercer o ofício como profissional independente.",
+            "**Nível 2** – Profissional da área, capaz de praticar sozinho.",
+            "**Nível 3** – Referência na sua área, o personagem conhece seu ofício nos mínimos detalhes."
         ],
         "skills": []
     },
@@ -242,9 +242,9 @@
         "name": "Estudos Acadêmicos",
         "description": [
             "No Brasil da época, educação formal queria dizer estudar nos colégios da Companhia de Jesus. Estes colégios, porém, só trabalhavam os conhecimentos básicos (nível 1, dentro do nosso sistema). Ao mesmo tempo, havia dezenas de universidades na Europa, inclusive na Espanha, na França, na Itália, em Portugal, na Suíça, na Alemanha e na Inglaterra, entre outros países. Nestes lugares, o aluno podia adquirir, em latim, educação formal em várias áreas.",
-            "Nível 1 – O personagem entende os conhecimentos básicos da área.",
-            "Nível 2 – O personagem tem um conhecimento amplo da área e   consegue aplicar seus conhecimentos em situações práticas.",
-            "Nível 3 – O personagem é um grande estudioso, capaz de contribuir novos pensamentos à área.",
+            "**Nível 1** – O personagem entende os conhecimentos básicos da área.",
+            "**Nível 2** – O personagem tem um conhecimento amplo da área e   consegue aplicar seus conhecimentos em situações práticas.",
+            "**Nível 3** – O personagem é um grande estudioso, capaz de contribuir novos pensamentos à área.",
             "As disciplinas da época eram diferentes da maneira que as conhecemos hoje, com estudos com base mais religiosa do que científica."
         ],
         "skills": []
@@ -253,9 +253,9 @@
         "name": "Línguas",
         "description": [
             "Línguas com o componente da escrita podem ser adquiridas até nível 3. Para línguas sem componente escrito, só existe nível 1.",
-            "Nível 1 – O personagem adquire fluência na língua falada. Pode se comunicar muito bem na língua e até servir como intérprete, no caso de dominar duas línguas até este nível.",
-            "Nível 2 – Ao adquirir o nível 2, o personagem desenvolve a habilidade de ler e escrever a língua.",
-            "Nível 3 – O nível 3 é para o estudioso dominar a língua e ter capacidade de escrever textos eloquentes e relevantes. Este nível de estudo é indispensável para poetas, escrivães e acadêmicos.",
+            "**Nível 1** – O personagem adquire fluência na língua falada. Pode se comunicar muito bem na língua e até servir como intérprete, no caso de dominar duas línguas até este nível.",
+            "**Nível 2** – Ao adquirir o nível 2, o personagem desenvolve a habilidade de ler e escrever a língua.",
+            "**Nível 3** – O nível 3 é para o estudioso dominar a língua e ter capacidade de escrever textos eloquentes e relevantes. Este nível de estudo é indispensável para poetas, escrivães e acadêmicos.",
             "O uso de línguas não necessita de testes, quem possui fluência pode se comunicar com qualquer outro que também domina a língua.",
             "Tupi era uma língua quase indispensável para os interessados em esbravar a selva quinhentista, foi a língua mais falada nas terras litorâneas da época. Além de ser a língua nata de vários povos (tupinambá, tupiniquim, tupinaé, tamoio, temiminó, potiguar, caeté e tabajara), também foi adotada por muitos dos colonizadores como língua principal. Outras línguas do litoral incluíam aimoré (também chamada de botocudo), goitacá (também chamada de waitaká), maracá, tremembé e guarani (língua dos carijós e guaranis).",
             "Português era a língua da política e da burocracia da colônia. Latim era a língua da igreja, dos colégios e das universidades, imprescindível para qualquer religioso ou estudioso. Árabe chegou à colônia através de africanos praticantes de islamismo, junto com línguas africanas como evê, fon, ioruba, quicongo, quimbundo e umbundo. Viajantes europeus trouxeram as suas línguas.",
