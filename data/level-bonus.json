@@ -1,0 +1,14 @@
+[
+    {
+        "level": 1,
+        "bonus": 3
+    },
+    {
+        "level": 2,
+        "bonus": 6
+    },
+    {
+        "level": 3,
+        "bonus": 9
+    }
+]
